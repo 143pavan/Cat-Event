@@ -1,0 +1,102 @@
+img{
+  width: 320px;
+  height: 240px;
+}
+header{
+  font-family:'Dancing Script',cursive;
+  text-align: center;
+  border: 6px solid rgb(24, 110, 92);
+  padding: 5px;
+  width: 400px;
+  background-color: white;
+  margin:0px auto;
+  box-shadow: 0px 0px 15px rgb(65, 4, 4);
+}
+header h1{
+  color: #212A3F;
+  font-size: 45px;
+}
+header p{
+  color: black;
+}
+#anil{
+  background-color:#212A3F;
+  font-family: 'Dancing Script' cursive;
+  font-size: 30px;
+  width: 420px;
+  margin: 0 auto;
+  text-transform: lowercase;
+}
+#anil ul{
+padding: 20px 15px;
+margin: 0px;
+text-align: center;
+}
+#anil ul li{
+  list-style-type: none;
+  display: inline;
+}
+#anil ul li a{
+  color: aquamarine;
+  text-decoration: none;
+  margin:0px 5px;
+  padding:1px;
+
+}
+ h2{
+  text-align: center;
+  color: #212A3F;
+  font-size: 36px;
+  font-family: 'Dancing Script',cursive;
+}
+#suresh p{
+  color: #2e2e2e;
+  text-align:left;
+  color: #212A3F;
+  width: 420px;
+  margin: 0px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-bottom: 40px;
+}
+#suresh img{
+  padding-top: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#suresh ul {
+  text-align: center;
+  margin:0px;
+  padding: 0px;
+  padding-top: 5px;
+}
+#pic1{
+  padding-bottom: 5px;
+}
+#pic2{
+  padding-bottom: 5px;
+}
+#pic3{
+  padding-bottom: 5px;
+}
+footer{
+  border-top: 20px solid #212A3F;
+  width: 420px;
+  margin: 0px auto;
+}
+footer p{
+  float: right;
+  padding:5px 0px 5px 0px;
+  text-align: right;
+  margin: 0px;
+  font-family: serif;
+}
+.footer-nav{
+  float: left;
+  padding-top:5px;
+  padding-left: 0px;
+}
+.footer-nav ul{
+  padding: 0px;
+  margin: 0px;
+}
